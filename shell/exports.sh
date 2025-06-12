@@ -4,7 +4,8 @@
 export CODELY_THEME_MINIMAL=false
 export CODELY_THEME_MODE="dark"
 export CODELY_THEME_PROMPT_IN_NEW_LINE=false
-export CODELY_THEME_PWD_MODE="short" # full, short, home_relative
+export CODELY_THEME_PWD_MODE="home_relative" # full, short, home_relative
+export CODELY_THEME_STATUS_ICON_KO="▪"
 
 # ------------------------------------------------------------------------------
 # Languages
@@ -44,6 +45,7 @@ path=(
 	"/usr/bin"
 	"/usr/sbin"
 	"/sbin"
+	"/mnt/c/Users/danie/AppData/Local/Programs/Microsoft VS Code/bin" #No se LMAO
 	"$path"
 )
 

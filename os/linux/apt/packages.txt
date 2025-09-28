@@ -8,6 +8,7 @@ debianutils
 diffutils
 findutils
 fzf
+gh
 git-all
 grep
 gzip
@@ -16,15 +17,18 @@ htop
 init
 libattr1
 login
+lsd
 ncurses-base
 ncurses-bin
 neofetch
+neovim
 nodejs
 npm
 python3
 tmux
 ubuntu-minimal
 ubuntu-wsl
+unzip
 util-linux
 xclip
 zsh

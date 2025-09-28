@@ -1,7 +1,9 @@
+astro-build.astro-vscode
 bmewburn.vscode-intelephense-client
 bradlc.vscode-tailwindcss
 dbaeumer.vscode-eslint
 ecmel.vscode-html-css
+esbenp.prettier-vscode
 formulahendry.auto-rename-tag
 george-alisson.html-preview-vscode
 github.copilot
@@ -10,6 +12,7 @@ gulajavaministudio.mayukaithemevsc
 miguelsolorio.min-theme
 mohd-akram.vscode-html-format
 ms-vscode.live-server
+ms-vscode.vscode-typescript-next
 patbenatar.advanced-new-file
 pawelborkar.jellyfish
 peakchen90.open-html-in-browser

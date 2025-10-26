@@ -24,7 +24,9 @@ neofetch
 neovim
 nodejs
 npm
+pandoc
 python3
+python3-pandas
 tmux
 ubuntu-minimal
 ubuntu-wsl
